@@ -94,7 +94,9 @@ ___
 [Letta - framework for creating LLMs with Memory](https://github.com/letta-ai/letta)  
 [Kubeflow - machine learning for kubernetes](https://www.kubeflow.org/)  
 [Milvus - high performance vector database built for scale](https://milvus.io/)  
-[efficient similarity search for dense vectors](https://github.com/facebookresearch/faiss)  
-[AI native database for new generation of software](https://weaviate.io/)  
-[Open source observibility for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)  
+[Faiss - efficient similarity search for dense vectors](https://github.com/facebookresearch/faiss)  
+[Weaviate - AI native database for new generation of software](https://weaviate.io/)  
+[OpenLLMetryOpen source observibility for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)  
+
+[awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 
