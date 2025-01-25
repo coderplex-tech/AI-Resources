@@ -85,6 +85,7 @@ ___
 [Thoughts On A Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)  
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)  
 [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)  
+[Cloudflare - what is artificial intelligence](https://www.cloudflare.com/learning/ai/what-is-artificial-intelligence/)
 
 ***CNCF AI Landscape***
 
