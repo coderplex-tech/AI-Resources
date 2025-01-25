@@ -1,9 +1,7 @@
 # AI-Crash-Course
 AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
 
-**Intro:** I’m [Henry Shi](https://www.linkedin.com/in/henrythe9th/) and I started Super.com in 2016 and grew it to $150MM+ in annual revenues and recently exited. As a traditional software founder, I needed to quickly catch up to the frontier of AI research to figure out where the next opportunities and gaps were. I compiled a list of resources that were essential for me and should get you caught up within 2 weeks.
-
-For more context, checkout the [original twitter thread](https://x.com/henrythe9ths/status/1877056425454719336)
+**About:** [Coderplex](https://coderplex.dev) is a community platform for self-learning developers. We help people learn modern technologies and accelerate in their careers. This repo is setup as a Fork of the AI Crash Course repo by @henrythe9th, which we find to be a good summary of fundamental guides and research papers to quickly catch up with the frontiers of AI today. We have expanded the below list of resources with our own references and recommendations for tools that you can explore and use to build AI solutions.
 
 **Start Here:**  
 [Neural Network \-\> LLM Series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
@@ -75,3 +73,28 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 **Obvious/easy papers (to get your feet wet if you're new to papers):**  
 [CoT (Chain of Thought)](https://arxiv.org/pdf/2201.11903) \- 2022  
 [SELF-REFINE: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651) \- 2023  
+
+___
++++
+
+**Additional Resources and Links**
+
+
+***Blogs***   
+[The 70% Problem:Hard truths about AI Assisted Coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about?triedRedirect=true)  
+[Thoughts On A Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)  
+[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)  
+[Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)  
+
+***CNCF AI Landscape***
+
+![image](https://github.com/user-attachments/assets/e37f5de6-095e-4617-a688-6b2049fb22ad)
+
+***Open Source Tools***  
+[Letta - framework for creating LLMs with Memory](https://github.com/letta-ai/letta)  
+[Kubeflow - machine learning for kubernetes](https://www.kubeflow.org/)  
+[Milvus - high performance vector database built for scale](https://milvus.io/)  
+[efficient similarity search for dense vectors](https://github.com/facebookresearch/faiss)  
+[AI native database for new generation of software](https://weaviate.io/)  
+[Open source observibility for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)  
+
