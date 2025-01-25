@@ -87,10 +87,6 @@ ___
 [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)  
 [Cloudflare - what is artificial intelligence](https://www.cloudflare.com/learning/ai/what-is-artificial-intelligence/)
 
-***CNCF AI Landscape***
-
-![image](https://github.com/user-attachments/assets/e37f5de6-095e-4617-a688-6b2049fb22ad)
-
 ***Open Source Tools***  
 [Letta - framework for creating LLMs with Memory](https://github.com/letta-ai/letta)  
 [Kubeflow - machine learning for kubernetes](https://www.kubeflow.org/)  
